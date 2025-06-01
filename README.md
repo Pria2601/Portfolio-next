@@ -13,7 +13,7 @@ A personal portfolio built with **Next.js**, **Tailwind CSS**, and **ONCE UI** t
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Pria2601/portfolio.git
 cd portfolio
 npm install
 npm run dev
